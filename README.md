@@ -1,8 +1,8 @@
-## Oiii, eu sou a Thais Milena!
+## <i>Oiii, eu sou a Thais Milena!</i>   <img align="right" alt="Milena-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/44/26/8b/44268b98bf98d57c49f486c7f10d5c30.jpg">
+
 <div align="center">
   <a href="https://github.com/thaismilenam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaismilenam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismilenam&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Milena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,7 +10,6 @@
   <img align="center" alt="Milena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Milena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Milena-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Milena-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/44/26/8b/44268b98bf98d57c49f486c7f10d5c30.jpg">
 </div>
   
 <div style align="center"> 
